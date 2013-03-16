@@ -4,8 +4,7 @@
 bogo.py
 
 Created by Kyle Nickel on 2013-03-16.
-
-TODO: Need to make this a module instead of a class
+Copyright (c) 2013 Kyle Nickel. All rights reserved.
 """
 import random 
 		
