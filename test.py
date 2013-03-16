@@ -9,12 +9,11 @@ Copyright (c) 2013 __MyCompanyName__. All rights reserved.
 
 import sys
 import os
-from bogo import Bogo
+from bogo import bogo
 
 def main():
 	data = [1, 3, 2]
-	bogo = Bogo(data, True)
-	bogo.sort()
+	bogo.sort(data)
 
 
 if __name__ == '__main__':
